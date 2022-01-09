@@ -1,5 +1,6 @@
 ## For Support join here [MoviezOnlySupport](https://telegram.dog/moviezonlysupport)
 ## Working example group [Leech Here](https://telegram.dog/leechtorrentmoviesonly)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/prgofficial/TorrentLeech-GDriVe)
 
 # Telegram Torrent Leecher 🔥🤖
 
